@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="工作区菜单只显示四行">
+  <!-- No backing plate. Flat ends on both sides; the track overshoots by 0.2 and
+       uses #C2CDDE so its light grey does not read shorter than the dark rows. -->
+  <g stroke="#54626f" stroke-width="2.2" stroke-linecap="butt">
+    <path d="M4.4 6.2h8.4"/>
+    <path d="M4.4 10.4h8.4"/>
+    <path d="M4.4 14.6h8.4"/>
+    <path d="M4.4 18.8h8.4"/>
+  </g>
+  <rect x="16.2" y="4.90" width="2.6" height="15.20" fill="#C2CDDE"/>
+  <rect x="16.2" y="4.90" width="2.6" height="6.60" fill="#3964FE"/>
+</svg>
